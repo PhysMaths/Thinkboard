@@ -187,16 +187,6 @@ Example body:
 ------------------------------------------------------------------------
 
 ## 🧩 Future Improvements
-
--   Edit notes\
--   Delete notes\
--   User authentication\
--   Cloud image uploads\
+-   User authentication
+-   Cloud image uploads
 -   Rich text editor
-
-------------------------------------------------------------------------
-
-## 🧑‍💻 Author
-
-**PhysMaths (Allen)**\
-GitHub: https://github.com/PhysMaths
